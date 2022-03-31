@@ -1,7 +1,7 @@
 # Pacman
 Pacmen moving around screen bouncing off walls.
 
-<img src='PacMan1.png' hieght='300' width='300'/>
+<img src='images/PacMan1.png' hieght='300' width='300'/>
 
 ## To Run
 Clone this repository and open all files in editor of your choice. Then run index.html.
